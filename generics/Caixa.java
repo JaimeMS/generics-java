@@ -1,5 +1,7 @@
 package generics;
-
+/* 
+ * CRIAÇÃO DE UMA CLASSE DE TIPO INDEFINIDO
+ */
 public class Caixa<T> {
 
 	private T coisa;
